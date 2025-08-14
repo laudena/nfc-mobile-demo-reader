@@ -8,6 +8,10 @@ To test this, use an NTAG215 or a similar NDEF-compatible tag with enough storag
 
 When your phone is actively in use (not just unlocked), place the tag near it. The application will automatically come to the foreground and display the URL data.
 
+# Live demo
+To see it live: https://youtube.com/shorts/jh1R2NbA48w?feature=share
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
